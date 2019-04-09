@@ -1,0 +1,4 @@
+#Tue Apr 09 14:17:58 KST 2019
+base.0=D\:\\android_studio_workspace\\BlackBeauty_Templete\\blackBeauty\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "335420132479",
+    "firebase_url": "https://storybook-blackbeauty.firebaseio.com",
+    "project_id": "storybook-blackbeauty",
+    "storage_bucket": "storybook-blackbeauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335420132479:android:4c41d80c68743a7b",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.blackbeauty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1B5jpHs-CtZ3X1lUBIEGzwgUm3agvyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335420132479-fenlr0l2its9i1moufs5pn7st9fq0jve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
