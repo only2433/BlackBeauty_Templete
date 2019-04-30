@@ -4,6 +4,23 @@
             "outputFile": "D:\\android_studio_workspace\\BlackBeauty_Templete\\blackBeauty\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.18.aar\\eeb182c3b64a50d1bb695d017154801f\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "22,23,24,25,29,30,31,32",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1093,1181,1307,1396,1658,1727,1784,1843",
+                        "endColumns": "87,125,88,96,68,56,58,65",
+                        "endOffsets": "1176,1302,1391,1488,1722,1779,1838,1904"
+                    },
+                    "to": {
+                        "startLines": "102,106,108,109,115,116,117,118",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "10053,10606,10821,10910,11329,11398,11455,11514",
+                        "endColumns": "87,125,88,96,68,56,58,65",
+                        "endOffsets": "10136,10727,10905,11002,11393,11450,11509,11575"
+                    }
+                },
+                {
                     "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.4.0.aar\\e79c8257eef7ed8b2cbcf284a36cb4ea\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,22",
@@ -52,23 +69,6 @@
                         "startOffsets": "5283,5393,5588,5721,5831,6051,6186,6338,6696,6947,7058,7254,7388,7612,7799,7896,7995",
                         "endColumns": "109,194,132,109,219,134,151,138,250,110,195,133,223,186,96,98,113",
                         "endOffsets": "5388,5583,5716,5826,6046,6181,6333,6472,6942,7053,7249,7383,7607,7794,7891,7990,8104"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\only340\\.gradle\\caches\\transforms-1\\files-1.1\\StorybookTempleteLibrary-1.0.17.aar\\7469b4503173f85a4221767992597f16\\res\\values-es\\values-es.xml",
-                    "from": {
-                        "startLines": "22,23,24,25,29,30,31,32",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "1093,1181,1307,1396,1658,1727,1784,1843",
-                        "endColumns": "87,125,88,96,68,56,58,65",
-                        "endOffsets": "1176,1302,1391,1488,1722,1779,1838,1904"
-                    },
-                    "to": {
-                        "startLines": "102,106,108,109,115,116,117,118",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "10053,10606,10821,10910,11329,11398,11455,11514",
-                        "endColumns": "87,125,88,96,68,56,58,65",
-                        "endOffsets": "10136,10727,10905,11002,11393,11450,11509,11575"
                     }
                 },
                 {
